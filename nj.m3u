@@ -1,0 +1,81 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOL-EyjguumwFtDWp0An2ZoVRPTjPKUbnOzA&s" group-title="Ungrouped", Star movies
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=155727&extension=m3u8&play_token=z1bLMTKaBx
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOL-EyjguumwFtDWp0An2ZoVRPTjPKUbnOzA&s" group-title="Ungrouped", Star movies select HD
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=155729&extension=m3u8&play_token=zlhZFCwYZ8
+#EXTINF: -1 group-title="Ungrouped", Star world HD
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=155726&extension=m3u8&play_token=0h5hEHLVD8
+#EXTINF: -1 group-title="Ungrouped", Star world premiere
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=155728&extension=m3u8&play_token=egwjbDXfo6
+#EXTINF: -1 group-title="Ungrouped", Star gold HD
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=946236&extension=m3u8&play_token=R9SEADXhiX
+#EXTINF: -1 group-title="Ungrouped", Star gold select HD
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=155970&extension=m3u8&play_token=s3sx3tTTP8
+#EXTINF: -1 group-title="Ungrouped", Star plus HD
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=155971&extension=m3u8&play_token=IKUiNSA6fF
+#EXTINF: -1 group-title="Ungrouped", UTV Action
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=155996&extension=m3u8&play_token=BoWGKIsc6j
+#EXTINF: -1 group-title="Ungrouped", UTV HD
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=156005&extension=m3u8&play_token=DahzZPeyHn
+#EXTINF: -1 group-title="Ungrouped", UTV movies
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=156033&extension=m3u8&play_token=6R718WOuQ3
+#EXTINF: -1 group-title="Ungrouped", Star sports 1 HD
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=946247&extension=m3u8&play_token=yxjUFyP8L9
+#EXTINF: -1 group-title="Ungrouped", Willow cricket HD
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=1036608&extension=m3u8&play_token=I20oxTyIXc
+#EXTINF: -1 group-title="Ungrouped", Sky sports CRICKET HD
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=1036614&extension=m3u8&play_token=5JqemytPM6
+#EXTINF: -1 group-title="Ungrouped", 8xm
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=281093&extension=m3u8&play_token=xK323WL0a5
+#EXTINF: -1 group-title="Ungrouped", 92 news Hd
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=165566&extension=m3u8&play_token=roFppCwx6z
+#EXTINF: -1 group-title="Ungrouped", A sports Hd
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=165565&extension=m3u8&play_token=LRDc6PxkkZ
+#EXTINF: -1 group-title="Ungrouped", Abbtakk
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=165618&extension=m3u8&play_token=dyFhAPGCIO
+#EXTINF: -1 group-title="Ungrouped", Ary digital
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=281099&extension=m3u8&play_token=Jm4grvNShJ
+#EXTINF: -1 group-title="Ungrouped", Ary family
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=42442&extension=m3u8&play_token=QCsiJywoeU
+#EXTINF: -1 group-title="Ungrouped", Ary news
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=281102&extension=m3u8&play_token=UXWpzmaaoD
+#EXTINF: -1 group-title="Ungrouped", Bol entertainment
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=165557&extension=m3u8&play_token=FI98IoPIwz
+#EXTINF: -1 group-title="Ungrouped", Bol news HD
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=165556&extension=m3u8&play_token=0GnthgnOX5
+#EXTINF: -1 group-title="Ungrouped", Channel 24 HD
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=165583&extension=m3u8&play_token=ZTOab9D6yK
+#EXTINF: -1 group-title="Ungrouped", Dawn news
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=281111&extension=m3u8&play_token=sUZj1Pfrp9
+#EXTINF: -1 group-title="Ungrouped", Dunya newa
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=165580&extension=m3u8&play_token=Q0ua3j1MiS
+#EXTINF: -1 group-title="Ungrouped", Express entertainment
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=281114&extension=m3u8&play_token=mhcX7CVajM
+#EXTINF: -1 group-title="Ungrouped", Express news
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=281115&extension=m3u8&play_token=c6GbA5DkA4
+#EXTINF: -1 group-title="Ungrouped", Geo kahani
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=281118&extension=m3u8&play_token=UdTwHSKxQo
+#EXTINF: -1 group-title="Ungrouped", Geo TV HD
+http://humiptv.live:8080/live/arijit38815/A437638815/119.m3u8
+#EXTINF: -1 group-title="Ungrouped", Geo news
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=281119&extension=m3u8&play_token=f6pgFEbaBY
+#EXTINF: -1 group-title="Ungrouped", Gnn news
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=281085&extension=m3u8&play_token=tApGN6pmqT
+#EXTINF: -1 group-title="Ungrouped", Hum tv Hd
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=165617&extension=m3u8&play_token=ueY5TQascs
+#EXTINF: -1 group-title="Ungrouped", Hum news
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=165563&extension=m3u8&play_token=gx6C737Psp
+#EXTINF: -1 group-title="Ungrouped", Hum sitaray
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=281124&extension=m3u8&play_token=ChgcCRolaa
+#EXTINF: -1 group-title="Ungrouped", Noor TV
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=281138&extension=m3u8&play_token=keNkRifzRY
+#EXTINF: -1 group-title="Ungrouped", Ptv home
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=281143&extension=m3u8&play_token=p0P2eEuTuQ
+#EXTINF: -1 group-title="Ungrouped", Ptv sports
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=281089&extension=m3u8&play_token=lXoyf7hTpF
+#EXTINF: -1 group-title="Ungrouped", Samaa news
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=165589&extension=m3u8&play_token=UihgN5Z6UJ
+#EXTINF: -1 group-title="Ungrouped", Such Tv
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=281091&extension=m3u8&play_token=ap3wLZbPj0
+#EXTINF: -1 group-title="Ungrouped", Ten sports
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:5E:13:C6&stream=281153&extension=m3u8&play_token=XhEymgTWwm
